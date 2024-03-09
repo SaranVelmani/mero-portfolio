@@ -120,9 +120,10 @@
     .logo .red {
         color: red;
     }
-
+   .nav-links{
+     flex-direction: column;
+    }
     .nav-links {
-        flex-direction: column;
         text-align: center; 
     }
 
