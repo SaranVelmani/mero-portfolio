@@ -61,7 +61,7 @@
 
     #contact{
         margin-top: 2rem;
-        height:60vh
+        height:55vh
     }
     footer {
         height: 25vh;
@@ -122,11 +122,11 @@
         color: red;
     }
 
-    .nav-links {
+/*     .nav-links {
         flex-direction: column;
         gap: 0.5rem;
         text-align: center;
-    }
+    } */
 
     .section__pic-container {
         width: auto;
