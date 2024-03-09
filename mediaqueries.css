@@ -69,7 +69,7 @@
 
     #profile {
         height: 55vh;
-        margin-bottom: 0;
+        margin-bottom: 1rem;
     }
 
     #about {
@@ -85,7 +85,11 @@
     }
 
     footer nav {
+        display:flex;
+        flex-wrap: wrap;
+        text-align: center;
         margin-bottom: 1rem;
+        
     }
 
     .about-containers,
@@ -121,9 +125,9 @@
     }
 
     .nav-links {
-        display:flex;
+/*         display:flex;
         flex-wrap: wrap;
-        text-align: center;
+        text-align: center; */
     }
 
     .section__pic-container {
