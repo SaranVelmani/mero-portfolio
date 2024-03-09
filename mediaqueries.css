@@ -61,10 +61,10 @@
 
     #contact{
         margin-top: 2rem;
-        height:50vh
+        height:60vh
     }
     footer {
-        height: 30vh;
+        height: 25vh;
     }
 
     #profile {
@@ -85,7 +85,8 @@
     }
 
     footer nav {
-        height: fit-content;
+        display:flex;
+        flex-wrap: wrap;
         margin-bottom: 1rem;
     }
 
