@@ -64,8 +64,9 @@
         height:55vh
     }
     footer {
-        height: 25vh;
+        height: 30vh;
     }
+    
 
     #profile {
         height: 55vh;
@@ -85,7 +86,7 @@
     }
 
     footer nav {
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
         
     }
 
