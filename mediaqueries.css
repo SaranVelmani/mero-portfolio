@@ -68,7 +68,7 @@
     }
 
     #profile {
-        height: 50vh;
+        height: 55vh;
         margin-bottom: 0;
     }
 
@@ -123,7 +123,7 @@
     .nav-links {
         display:flex;
         flex-wrap: wrap;
-/*         text-align: center; */
+        text-align: center;
     }
 
     .section__pic-container {
