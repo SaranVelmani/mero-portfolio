@@ -68,7 +68,7 @@
     }
 
     #profile {
-        height: 65vh;
+        height: 50vh;
         margin-bottom: 0;
     }
 
@@ -85,8 +85,6 @@
     }
 
     footer nav {
-        display:flex;
-        flex-wrap: wrap;
         margin-bottom: 1rem;
     }
 
@@ -122,11 +120,11 @@
         color: red;
     }
 
-/*     .nav-links {
-        flex-direction: column;
-        gap: 0.5rem;
-        text-align: center;
-    } */
+    .nav-links {
+        display:flex;
+        flex-wrap: wrap;
+/*         text-align: center; */
+    }
 
     .section__pic-container {
         width: auto;
