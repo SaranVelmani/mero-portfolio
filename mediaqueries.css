@@ -57,7 +57,7 @@
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 550px) {
 
     #contact,
     footer {
@@ -65,20 +65,20 @@
     }
 
     #profile {
-        height: 50vh;
+        height: 60vh;
         margin-bottom: 0;
     }
 
     #about {
-        margin-top: 1rem;
+        margin-top: 2rem;
     }
 
     article {
-        font-size: 1rem;
+        font-size: 2rem;
     }
 
     footer {
-        margin-top: 1rem;
+        margin-top: 2rem;
     }
 
     footer nav {
