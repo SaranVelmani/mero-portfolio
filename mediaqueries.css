@@ -122,6 +122,7 @@
     }
 
     .nav-links {
+        flex-direction: column;
         text-align: center; 
     }
 
